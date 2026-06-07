@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.vite/
+*.map
+.pytest_cache/
+tests/smoke/fixtures/test_output.wav
